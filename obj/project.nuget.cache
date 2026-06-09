@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LIFXhPMX46s=",
+  "success": true,
+  "projectFilePath": "E:\\код\\ComputerEquipmentAccounting\\ComputerEquipmentAccounting\\ComputerEquipmentAccounting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
